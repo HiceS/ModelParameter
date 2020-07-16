@@ -1,2 +1,2 @@
-app_name = 'Model Parameter'
+app_name = 'ModelParameter'
 company_name = "my_company"

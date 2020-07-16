@@ -1,0 +1,11 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "addin",
+    "id": "f2756f78-44d5-4ffe-a98d-ee5922373a83",
+    "author": "Shawn Hice",
+    "description": "Fusion 360 addin to add a button that will let you construct a model parameter from a value type.",
+    "version": "0.1.0",
+    "runOnStartup": false,
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
